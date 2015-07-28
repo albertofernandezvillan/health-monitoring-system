@@ -19,5 +19,4 @@ If you use the provided code for your work, please cite the following paper:
 
     Unobtrusive Health Monitoring System Using Video-Based Physiological Information   and Activity Measurements
 
-
 This Readme file is created with http://prose.io
